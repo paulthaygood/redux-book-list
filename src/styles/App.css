@@ -1,10 +1,23 @@
+body{
+  background-image: url(https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/ST4HFZZ2ZS.jpg);
+  }
+
 h1{
   color: red;
   font-family: 'Saira Extra Condensed', sans-serif;
+  text-align: center;
 }
 
 .list-group-item{
+  color: #4167f4; overflow:hidden;
+  font-weight: bold;
   text-decoration: underline;
+}
+
+h3{
+color: black;
+font-weight: bold;
+text-align: center;
 }
 
 h4{
